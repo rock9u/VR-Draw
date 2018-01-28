@@ -282,7 +282,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\script\checkAnswer.cs" />
+    <Compile Include="Assets\script\drawerUI.cs" />
+    <Compile Include="Assets\script\StartPressed.cs" />
+    <Compile Include="Assets\script\UIDisplayFlow.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\ely_hills\ely_hills.shader" />
